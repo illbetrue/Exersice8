@@ -12,6 +12,7 @@
 8. Add your email to the package.json file (to the authors section)  
 9. Run `npm run test:dev` in the command line  
 7. You will see the number of passing and failing tests
+8. Push your updates to main branch
 
 ## Submit to AutoCode
 1. Select your task (Introduction)
