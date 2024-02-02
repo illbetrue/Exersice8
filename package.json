@@ -19,7 +19,8 @@
   },
   "authors": [
     "Dzmitry_Shaplyka@epam.com",
-    "Oleksandr_Halichenko@epam.com"
+    "Oleksandr_Halichenko@epam.com",
+    "Maksym_Khomenko@epam.com"
   ],
   "license": "ISC",
   "dependencies": {
